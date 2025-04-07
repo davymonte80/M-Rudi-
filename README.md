@@ -10,3 +10,7 @@
 - Beyond tech, it's a movement – promoting education, sustainability, and circular living.
 
 - 🌱 M-Rudi: Because waste is not the end – it's a new beginning.
+# TECHNOLOGIES USED
+# 🧩 Frontend
+- NextJs
+- Typescript
